@@ -492,3 +492,4 @@ http://158.101.137.14:1188
 http://101.43.249.151:1188
 http://51.79.33.25:1188
 https://deepl.mukapp.top
+http://deepl.whuzfb.cn
